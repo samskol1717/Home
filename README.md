@@ -6,7 +6,7 @@
 
 [Repo](https://github.com/samskol1717/NativeSmsInvitesiOSUnityPlugin)
 
-### CUPS Trailer
+### CUPS 
 ##### Cups is basically beer pong with friends, a casual funny lazy social game for iOS and Android. 
 
 [teaser trailer](https://youtu.be/2ADUGHOc_v8)
