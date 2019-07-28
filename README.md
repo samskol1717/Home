@@ -1,7 +1,7 @@
 # Home - Overview of Projects
 ##### most recent work first
 
-### iOS native plugin 
+### iOS-Unity native plugin 
 ##### for simple invites (message code sent back to unity)
 
 [Repo](https://github.com/samskol1717/NativeSmsInvitesiOSUnityPlugin)
