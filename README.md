@@ -30,5 +30,5 @@ Still needs a lot of work on graphics! These trailers show the gameplay.
 [ArtStation Link](https://www.artstation.com/samskol)
 
 ### Other Code
-##### Check out my other repos for older code/stuff from school/projects!
+Check out my other [repos](https://github.com/samskol1717) for older code/stuff from school/projects!
 
