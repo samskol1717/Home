@@ -15,7 +15,7 @@
 
 [Cups website](https://wackyduckcups.webflow.io/)
 
-The drinking aspect has made me uneasy so I have decided to discontinue the project for the time being. But, I learned a great deal about mobile dev and Unity in the process.
+Still needs a lot of work on graphics! These trailers show the gameplay. 
 
 ### My First Published Game - Space! Math
 ##### Available on Android this game helps you practice basic arithmetic in an addictive and fun way.
